@@ -1,0 +1,288 @@
+United Interchain Constitution
+___________________________________________________________________
+While the Constitution may begin sparsely, we chose to maintain simplicity as wise politicians are 
+cautious about including laws or rules that are to be broken by necessity. We hope the whole interchain 
+community will contribute to the start that humbly presents itself in front of them.
+
+The Constitution will be subject to iterations and should not be considered finalized until the 
+interchain reaches a consensus on the contents.
+ 
+- - - - - - - - - - - - - Constitution- - - - - - - - - - - -
+Article One
+
+Section 1 - 
+
+All legislative Powers herein granted shall be vested in a Congress of the United Interchain, which
+ shall consist of a body of ledgers represented equally in the Senate and the same body of ledgers 
+ represented in the Union Assembly in accordance with their monetary stake in the Union.
+
+
+Section 2 - 
+
+The Union Assembly shall be composed of chains as representatives. The Union Assembly will function
+ as a pure democratic republic defined as a popular system of governance where all laws and policies 
+ are determined by an elected body called representatives and directly by the people. In interchain federalist
+  five additional information about a pure democratic republic are found.
+
+The power endowed to the chains within the Union Assembly is directly proportional to their
+ relative percentage of economic stake, meaning market capitalization, to the aggregate value of 
+ the Union.
+
+For instance, if the total aggregate market capitalization of the United Interchain is 11 billion
+ and there are nine chains worth one billion and one chain worth two billion, then nine chains have 
+ roughly 9.1% of the vote, and one chain has 18.1%.
+
+Within each chain individuals and validators will vote in proportion to their stake in the network.
+ The decision of all individuals that delegate to validators in the active set and all validators 
+ within the active set will decide the vote of the chain's power.
+
+For example, one ledger in our former illustration has 9.1% of the voting power. In this chain,
+ there are one-hundred validators, each with 1% of voting power, and there are also one-thousand 
+ individual stakers and ten unique stakers per validator, all with an equal stake. In a pure democratic 
+ republic, individuals can overvote their validator's vote. For simplicity, in the example, fifty validators 
+ and ten unique stakers vote one-way, meaning they have a simple majority of 51%. That 51% majority decision 
+ controls 51% of the chain's 9.1% power in the Union Assembly. To elaborate further, if 51% voted yes on the bill 
+ on the floor in the Union Assembly, this dictates that 4.641% of the chain's power would vote yes in 
+ the Union Assembly, and the other 4.359% would vote either no, veto, or abstain.
+
+The Union Assembly shall choose its speaker and other Officers; and shall have the sole Power of
+ impeachment.
+
+
+Section 3 - 
+
+The Senate shall be composed of chains as representatives. The Senate will function as a republic
+ where representatives, also known as validators, determine the laws and policies.
+
+The power endowed to the chains within the Senate is equally distributed. Each chain will get one
+ vote.
+
+Within each chain, individual stakers delegate to representatives called validators, as a normal
+ delegated PoS system function. Each validator inside each chain will receive one vote. The simple
+  majority decision of all validators inside the active set will decide the one vote the chain can make 
+  in the Senate. Since ledgers in the house are required to be the same in the Senate and visa versa, we 
+  find that in the example of the Interchain Congress displayed in Section 2, there must also be ten chains 
+  within the Senate. Each Chain will have one vote, making power equivalent throughout the Senate.
+
+Take one ledger from the Senate as an example. In this chain, there are one-hundred validators, each
+ with 1% voting power, and there are also 1000 individual stakers and ten unique stakers per validator,
+  all with an equal stake. Ignore that each validator has 1% voting power within the network and assign 
+  every validator of the 100 in the active set a vote. These validators reach a simple majority of 51%, 
+  which controls the single vote the chain makes in the Senate. If 51% of the validators voted yes on the 
+  bill on the floor of the Senate, this dictates that the chain's one vote would be yes. The power of each 
+  chain in the Senate is not proportional to their stake nor the number of validators; instead, one 
+  blockchain gets one vote. Now expand the individual process explained to multiple ledgers and that system
+   comprises the Senate.
+
+Every two, the Senate will vote to decide which chain has the power of tie break. If a tie within a
+ chain takes place, then the chain that the Senate has elected to decide ties will vote. Similarly, 
+ this chain will break the deadlock if a tie occurs between senators.
+
+The Senate shall choose its speaker and other Officers; and shall have the power to try all
+ impeachments. When a chain of the United Interchain shall be tried, no ledger shall be convicted, 
+ only removed from the Union with a super majority of two-thirds of Senate members.
+
+Judgment in Cases of Impeachment shall not extend further than removal from office. The party
+ convicted shall be liable and subject to indictment, trial, judgment, and punishment, according to law.
+The Senate shall have the sole power to vote the judiciary's punishment through if slashing be
+ chosen as punishment. A simple majority must vote yes for the sentence to be administered. 
+
+
+Section 4 - 
+
+The ledgers in the Senate and the Union Assembly must be the same. No chain shall be a representative
+ in either the Union Assembly or Senate who shall not have attained decentralized or security or audit 
+ requirements or the age of two years since genesis. Every two years, from the genesis of the United 
+ Interchain ledger, new blockchains can be voted in to join the Union.
+
+
+Section 5 - 
+
+The United Interchain will be a ledger secured through cross-chain validation equally by all its members.
+
+
+Section 6 - 
+
+The legislature of the United Interchain shall prescribe the time and manner of holding elections for
+ ledgers joining the Union.
+
+
+Section 7 - 
+
+Each Chain shall receive compensation for their Services, to be ascertained by law, and paid out 
+of the Treasury of the United Interchain to each ledgers communal treasury.
+
+
+Section 8 - 
+
+All bills for raising revenue shall originate in the Union Assembly, but the Senate may propose 
+or concur with amendments as on other bills. If the simple aggregate majority in the Union Assembly 
+shall agree to pass the bill, it shall be sent to the Senate, which shall consider the bill, and if 
+approved via simple majority, it shall become law. In cases where the Senate disapproves via simple 
+majority, the bill with objections written will be returned to the Union Assembly for reconsideration.
+
+In all cases, the votes of the Union Assembly and Senate shall be determined by yeas, nays, veto,
+ and abstain. The wallet addresses of the individual wallets or validators that voted for, against, 
+ veto, or abstain shall be appended to the United Interchain ledger.
+
+Veto vote determines that a bill is either spam, infringes on minority interests, or violates or
+ encourages violation of the Constitution and bill of rights. Veto allows one-third to require a 
+ two-thirds yes vote to pass a bill. The proposal fails and is considered vetoed if a super-majority is not reached.
+
+
+Section 9 - 
+
+The Congress shall have the power to lay and collect Taxes, duties, imposts, and excises to pay
+ the debts and provide for the common defense and general welfare of the United Interchain. All 
+ duties, imposts, and excises shall be uniform through the United Interchain.
+
+To borrow money on the credit of the United Interchain;
+
+To regulate commerce with foreign bodies and among the several ledgers;
+
+To maintain infrastructure for the efficient functioning of the interchain;
+
+To constitute tribunals inferior to the high court;
+
+To define felonies committed on the interchain Union's commercial routes and offenses against the
+ laws of the United Interchain;
+
+To declare war and make rules concerning captures of Chains or corporations outside the Union.
+
+To raise capital for trade war or the defense of the United Interchain, but no appropriation of
+ money to that use should be longer than one year.
+
+To make rules for the government and regulation of the interchain;
+
+To make procedures for closing infrastructure or lanes of travel to ledgers that have been 
+exploited.
+
+To appoint a primary representative to command economic war;
+
+To make decentralized or security or audit requirements on Union members and ledgers seeking to
+ join the Union.
+
+
+Section 10 - 
+
+Any Regulation of commerce shall give no preference to chains.
+
+No money shall be drawn from the Treasury except when appropriations are made by law formed by 
+the Union Assembly and Senate. When such occurs, a statement and account of receipts and expenditures 
+of public funds must be published at the initial and final expenditure.
+
+No chain without the consent of Congress shall accept any title from foreign chains or nations.
+
+
+Section 11 - 
+
+No chain shall enter into a treaty, alliance, or confederation.
+
+Without the consent of Congress, no chain shall enter into agreement or compact with another 
+foreign power or engage in economic war unless their self-dominion is in imminent danger.
+
+No chain shall, without consent of Congress, lay any imposts or duties on imports or exports. 
+
+The net gain of all duties or imposts laid by any chain on imports or exports shall be for the use 
+of the treasury of the United Interchain, and all such laws shall be subject to the revision and 
+control of Congress.
+
+
+Section 12 - 
+
+Congress may admit new States into this Union.
+
+
+Section 13 - 
+
+To institute a new ledger in the Union, 3/5ths yaes in the Union Assembly and Senate must be 
+reached.
+
+Congress may determine the time of choosing new members and the day on which votes shall be 
+collected, which shall be the same throughout the United Interchain.
+
+If a chain cannot carry out its duties to the Union or exercise its will safely and without 
+coercion, Congress may provide for the removal of the chain through the impeachment process.
+
+Before a chain enters the Union it must take the following affirmation: We affirm that we will
+ execute the office of Congress and judiciary, and to the best of our ability, preserve, protect 
+ and defend the Constitution of the United Interchain.
+
+
+Section 14 - 
+
+Bi-annually the Senate and Union Assembly shall present to the United Interchain information 
+about the state of the Union and tell us their recommendations for the continuance of the Union.
+
+
+Section 15 - 
+
+The United interchain Congress shall have the power to dispose of and make needful rules and 
+regulations respecting the territory or other property belonging to the United Interchain.
+
+
+
+Article two
+
+
+Section 1- 
+
+The judicial power of the United interchain shall be vested in one high court and inferior 
+courts as Congress ordains and establishes. The judges of both the high and inferior courts shall 
+be entire ledgers that will receive payment from the United Interchain treasury, as determined by 
+Congress, directly to the ledger's communal treasury.
+
+An example of this system's functioning could be a three-tiered court system. Beginning at a 
+common court, intermediate court, and ending at a high court. The common court has a jury of three 
+ledgers adjudicating over the case, the intermediate court has a jury of six ledgers adjudicating, 
+and the high court has a jury of twelve ledgers adjudicating over the case. Standard court procedures 
+of appealing to higher courts and those courts either accepting the appeal or upholding lower court 
+rulings apply. These ledgers that comprise the jury would be randomly chosen from within the Union.
+
+
+Section 2- 
+
+The judicial power shall extend to all cases except those of impeachment. The trial of all 
+crimes shall be by a jury of peers. The jury will decide a punishment if convicted or retribution 
+if innocent.
+
+
+Section 3- 
+
+
+The judiciary has the power to punish ledgers or individuals as delegated by the judges. 
+The judiciary has the ability to slash chains, which is capital punishment.
+
+
+Section 4- 
+
+Treason against the United Interchain shall consist of levying war or coercion against any 
+Union members or adhering to Union enemies. Congress shall have the power to declare the punishment 
+of treason, but the judiciary will find the ledger innocent or guilty.
+
+
+
+Article three
+
+Whenever two-thirds of the Union Assembly and Senate deems it necessary, Congress shall propose
+ amendments to this Constitution or call a convention for proposing amendments.
+
+
+
+Article four
+
+The United Interchain will never emplace a central currency.
+
+
+
+Article five
+
+Any powers not explicitly deemed in the Constitution are those of the chains that comprise the Union.
+
+
+
+Article Six
+
+The ratification of the Convention of ten chains shall be sufficient for establishing this 
+Constitution between the ledgers. The ratification will trigger a funding proposal across the ten 
+ledgers to create the necessary infrastructure for unionization.
